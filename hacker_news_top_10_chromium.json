@@ -1,0 +1,52 @@
+[
+  {
+    "rank": 1,
+    "title": "Mexican Computers: A Brief Technical and Historical Overview",
+    "link": "https://arxiv.org/abs/2406.04912"
+  },
+  {
+    "rank": 2,
+    "title": "Sending Emails to my three-year-old",
+    "link": "https://blog.haschek.at/2024/leaving-a-digital-legacy.html"
+  },
+  {
+    "rank": 3,
+    "title": "Show HN: Probabilistic Tic-Tac-Toe",
+    "link": "https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html"
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "link": "https://openai.com/index/openai-welcomes-cfo-cpo/"
+  },
+  {
+    "rank": 5,
+    "title": "Apple Debuts VisionOS 2",
+    "link": "https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/"
+  },
+  {
+    "rank": 6,
+    "title": "The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?",
+    "link": "https://spectrum.ieee.org/the-mythical-non-roboticist"
+  },
+  {
+    "rank": 7,
+    "title": "Gainax, known for 'Evangelion' anime production, goes bankrupt",
+    "link": "https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/"
+  },
+  {
+    "rank": 8,
+    "title": "Brainbase (YC W24) Is Hiring Head of Product",
+    "link": "https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product"
+  },
+  {
+    "rank": 9,
+    "title": "23words.com",
+    "link": "https://23words.com/"
+  },
+  {
+    "rank": 10,
+    "title": "WebKit fix: Quirk news.ycombinator to skip TextAutoSizing",
+    "link": "https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3"
+  }
+]
